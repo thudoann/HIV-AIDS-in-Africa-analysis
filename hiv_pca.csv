@@ -1,0 +1,75 @@
+,Country,Region,Year,Sex,Age,Deathnew,AnnualDeaths,AnnualInfection,LivingHIV,Deathrate,Code,HDI,NewHDI
+36,Angola,Eastern and Southern Africa,2017,Female,Age 10-19,2.1,500.0,3300.0,14000,8.82,AGO,0.581,MediumHDI
+37,Angola,Eastern and Southern Africa,2017,Male,Age 10-19,0.44,500.0,690.0,6500,7.36,AGO,0.581,MediumHDI
+92,Burundi,Eastern and Southern Africa,2017,Female,Age 10-19,0.28,200.0,200.0,4800,11.63,BDI,0.417,LowHDI
+93,Burundi,Eastern and Southern Africa,2017,Male,Age 10-19,0.05,200.0,100.0,4100,13.97,BDI,0.417,LowHDI
+148,Benin,West and Central Africa,2017,Female,Age 10-19,0.49,100.0,500.0,2600,6.82,BEN,0.515,LowHDI
+149,Benin,West and Central Africa,2017,Male,Age 10-19,0.18,100.0,200.0,2100,7.2,BEN,0.515,LowHDI
+184,Burkina Faso,West and Central Africa,2017,Female,Age 10-19,0.29,200.0,500.0,5500,8.13,BFA,0.423,LowHDI
+185,Burkina Faso,West and Central Africa,2017,Male,Age 10-19,0.12,500.0,200.0,4900,10.93,BFA,0.423,LowHDI
+240,Central African Republic,West and Central Africa,2017,Female,Age 10-19,1.53,200.0,500.0,3900,21.76,CAF,0.367,LowHDI
+241,Central African Republic,West and Central Africa,2017,Male,Age 10-19,0.67,200.0,200.0,3200,25.34,CAF,0.367,LowHDI
+296,Cameroon,West and Central Africa,2017,Female,Age 10-19,2.0,570.0,2600.0,20000,20.4,CMR,0.556,MediumHDI
+297,Cameroon,West and Central Africa,2017,Male,Age 10-19,0.33,580.0,500.0,13000,20.48,CMR,0.556,MediumHDI
+352,Congo,West and Central Africa,2017,Female,Age 10-19,3.63,100.0,930.0,4200,17.26,COG,0.606,MediumHDI
+353,Congo,West and Central Africa,2017,Male,Age 10-19,0.38,100.0,100.0,2000,16.03,COG,0.606,MediumHDI
+398,Djibouti,Eastern and Southern Africa,2017,Female,Age 10-19,0.13,100.0,100.0,500,21.2,DJI,0.476,LowHDI
+399,Djibouti,Eastern and Southern Africa,2017,Male,Age 10-19,0.06,100.0,100.0,500,21.76,DJI,0.476,LowHDI
+424,Eritrea,Eastern and Southern Africa,2017,Female,Age 10-19,0.21,100.0,100.0,610,4.89,ERI,0.44,LowHDI
+425,Eritrea,Eastern and Southern Africa,2017,Male,Age 10-19,0.03,100.0,100.0,540,4.96,ERI,0.44,LowHDI
+460,Ethiopia,Eastern and Southern Africa,2017,Female,Age 10-19,0.32,720.0,1700.0,28000,6.53,ETH,0.463,LowHDI
+461,Ethiopia,Eastern and Southern Africa,2017,Male,Age 10-19,0.05,770.0,500.0,24000,6.92,ETH,0.463,LowHDI
+516,Gabon,West and Central Africa,2017,Female,Age 10-19,1.9,100.0,200.0,1300,15.61,GAB,0.702,HighHDI
+517,Gabon,West and Central Africa,2017,Male,Age 10-19,0.17,100.0,100.0,790,15.42,GAB,0.702,HighHDI
+572,Ghana,West and Central Africa,2017,Female,Age 10-19,1.32,500.0,1900.0,13000,13.94,GHA,0.592,MediumHDI
+573,Ghana,West and Central Africa,2017,Male,Age 10-19,0.15,510.0,500.0,8400,16.26,GHA,0.592,MediumHDI
+628,Guinea,West and Central Africa,2017,Female,Age 10-19,1.19,200.0,820.0,5300,8.96,GIN,0.459,LowHDI
+629,Guinea,West and Central Africa,2017,Male,Age 10-19,0.28,200.0,500.0,3400,9.19,GIN,0.459,LowHDI
+684,Gambia,West and Central Africa,2017,Female,Age 10-19,0.55,100.0,100.0,540,7.51,GMB,0.46,LowHDI
+685,Gambia,West and Central Africa,2017,Male,Age 10-19,0.08,100.0,100.0,500,8.61,GMB,0.46,LowHDI
+710,Guinea-Bissau,West and Central Africa,2017,Female,Age 10-19,1.39,100.0,200.0,1200,20.8,GNB,0.455,LowHDI
+711,Guinea-Bissau,West and Central Africa,2017,Male,Age 10-19,0.59,100.0,100.0,960,23.22,GNB,0.455,LowHDI
+746,Equatorial Guinea,West and Central Africa,2017,Female,Age 10-19,4.47,100.0,500.0,980,19.38,GNQ,0.591,MediumHDI
+747,Equatorial Guinea,West and Central Africa,2017,Male,Age 10-19,1.72,100.0,100.0,610,22.26,GNQ,0.591,MediumHDI
+802,Kenya,Eastern and Southern Africa,2017,Female,Age 10-19,2.42,1500.0,5800.0,71000,28.48,KEN,0.59,MediumHDI
+803,Kenya,Eastern and Southern Africa,2017,Male,Age 10-19,0.46,1600.0,1100.0,55000,31.05,KEN,0.59,MediumHDI
+840,Liberia,West and Central Africa,2017,Female,Age 10-19,1.54,100.0,500.0,2500,16.19,LBR,0.435,LowHDI
+841,Liberia,West and Central Africa,2017,Male,Age 10-19,0.64,100.0,200.0,1900,18.09,LBR,0.435,LowHDI
+896,Lesotho,Eastern and Southern Africa,2017,Female,Age 10-19,13.26,200.0,1300.0,9500,89.1,LSO,0.52,LowHDI
+897,Lesotho,Eastern and Southern Africa,2017,Male,Age 10-19,2.37,200.0,500.0,6400,87.5,LSO,0.52,LowHDI
+932,Madagascar,Eastern and Southern Africa,2017,Female,Age 10-19,0.11,100.0,200.0,500,0.2,MDG,0.519,LowHDI
+933,Madagascar,Eastern and Southern Africa,2017,Male,Age 10-19,0.04,100.0,100.0,200,0.17,MDG,0.519,LowHDI
+1044,Mozambique,Eastern and Southern Africa,2017,Female,Age 10-19,11.94,1600.0,19000.0,91000,46.35,MOZ,0.437,LowHDI
+1045,Mozambique,Eastern and Southern Africa,2017,Male,Age 10-19,2.68,1500.0,4400.0,47000,43.01,MOZ,0.437,LowHDI
+1212,Malawi,Eastern and Southern Africa,2017,Female,Age 10-19,4.88,670.0,4600.0,46000,31.43,MWI,0.477,LowHDI
+1213,Malawi,Eastern and Southern Africa,2017,Male,Age 10-19,0.57,680.0,550.0,34000,31.96,MWI,0.477,LowHDI
+1268,Namibia,Eastern and Southern Africa,2017,Female,Age 10-19,5.57,200.0,660.0,6700,47.52,NAM,0.647,MediumHDI
+1269,Namibia,Eastern and Southern Africa,2017,Male,Age 10-19,1.68,200.0,200.0,5300,48.72,NAM,0.647,MediumHDI
+1324,Niger,West and Central Africa,2017,Female,Age 10-19,0.03,100.0,100.0,1400,2.16,NER,0.354,LowHDI
+1325,Niger,West and Central Africa,2017,Male,Age 10-19,0.01,100.0,100.0,1300,2.51,NER,0.354,LowHDI
+1354,Nigeria,West and Central Africa,2017,Female,Age 10-19,0.71,1500.0,7100.0,57000,7.14,NGA,0.532,LowHDI
+1355,Nigeria,West and Central Africa,2017,Male,Age 10-19,0.29,1800.0,3100.0,48000,7.68,NGA,0.532,LowHDI
+1410,Rwanda,Eastern and Southern Africa,2017,Female,Age 10-19,0.88,200.0,530.0,9500,14.5,RWA,0.524,LowHDI
+1411,Rwanda,Eastern and Southern Africa,2017,Male,Age 10-19,0.12,500.0,100.0,8000,16.05,RWA,0.524,LowHDI
+1466,Sudan,Eastern and Southern Africa,2017,Female,Age 10-19,0.06,100.0,200.0,1100,0.94,SDN,0.502,LowHDI
+1467,Sudan,Eastern and Southern Africa,2017,Male,Age 10-19,0.03,100.0,100.0,930,0.92,SDN,0.502,LowHDI
+1522,Senegal,West and Central Africa,2017,Female,Age 10-19,0.04,100.0,100.0,1400,2.9,SEN,0.505,LowHDI
+1523,Senegal,West and Central Africa,2017,Male,Age 10-19,0.01,100.0,100.0,1400,3.42,SEN,0.505,LowHDI
+1578,Sierra Leone,West and Central Africa,2017,Female,Age 10-19,2.04,200.0,820.0,4800,15.0,SLE,0.419,LowHDI
+1579,Sierra Leone,West and Central Africa,2017,Male,Age 10-19,0.77,200.0,500.0,3200,17.27,SLE,0.419,LowHDI
+1594,South Sudan,Eastern and Southern Africa,2017,Female,Age 10-19,1.67,500.0,1100.0,6100,15.12,SSD,0.388,LowHDI
+1595,South Sudan,Eastern and Southern Africa,2017,Male,Age 10-19,0.71,500.0,500.0,4600,15.57,SSD,0.388,LowHDI
+1650,Eswatini,Eastern and Southern Africa,2017,Female,Age 10-19,19.99,200.0,1100.0,7600,89.38,SWZ,0.588,MediumHDI
+1651,Eswatini,Eastern and Southern Africa,2017,Male,Age 10-19,2.34,200.0,200.0,4500,75.36,SWZ,0.588,MediumHDI
+1686,Chad,West and Central Africa,2017,Female,Age 10-19,0.75,500.0,620.0,6100,11.05,TCD,0.404,LowHDI
+1687,Chad,West and Central Africa,2017,Male,Age 10-19,0.22,500.0,200.0,4800,11.32,TCD,0.404,LowHDI
+1742,Togo,West and Central Africa,2017,Female,Age 10-19,1.11,200.0,500.0,4900,15.73,TGO,0.503,LowHDI
+1743,Togo,West and Central Africa,2017,Male,Age 10-19,0.17,200.0,100.0,3700,18.82,TGO,0.503,LowHDI
+1798,Uganda,Eastern and Southern Africa,2017,Female,Age 10-19,3.78,1300.0,8200.0,64000,27.43,UGA,0.516,LowHDI
+1799,Uganda,Eastern and Southern Africa,2017,Male,Age 10-19,0.5,1400.0,1100.0,41000,29.57,UGA,0.516,LowHDI
+1854,South Africa,Eastern and Southern Africa,2017,Female,Age 10-19,16.01,1700.0,34000.0,210000,36.38,ZAF,0.699,MediumHDI
+1855,South Africa,Eastern and Southern Africa,2017,Male,Age 10-19,2.42,1100.0,5400.0,120000,23.81,ZAF,0.699,MediumHDI
+1910,Zambia,Eastern and Southern Africa,2017,Female,Age 10-19,8.57,630.0,7400.0,42000,32.36,ZMB,0.588,MediumHDI
+1911,Zambia,Eastern and Southern Africa,2017,Male,Age 10-19,2.41,600.0,2000.0,26000,31.49,ZMB,0.588,MediumHDI
+1966,Zimbabwe,Eastern and Southern Africa,2017,Female,Age 10-19,6.85,880.0,4900.0,49000,56.25,ZWE,0.535,LowHDI
+1967,Zimbabwe,Eastern and Southern Africa,2017,Male,Age 10-19,1.66,900.0,1200.0,37000,57.28,ZWE,0.535,LowHDI

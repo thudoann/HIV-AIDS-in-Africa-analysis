@@ -1,4 +1,4 @@
-,Country,Region,Year,Sex,Age,Estimated incidence rate of new HIV infection per 1 000 uninfected population ,AnnualDeaths,AnnualInfection,Estimated number of people living with HIV,Deathrate,Code,HDI,NewHDI
+,Country,Region,Year,Sex,Age,Deathnew,AnnualDeaths,AnnualInfection,LivingHIV,Deathrate,Code,HDI,NewHDI
 36,Angola,Eastern and Southern Africa,2017,Female,Age 10-19,2.1,500.0,3300.0,14000,8.82,AGO,0.581,MediumHDI
 37,Angola,Eastern and Southern Africa,2017,Male,Age 10-19,0.44,500.0,690.0,6500,7.36,AGO,0.581,MediumHDI
 92,Burundi,Eastern and Southern Africa,2017,Female,Age 10-19,0.28,200.0,200.0,4800,11.63,BDI,0.417,LowHDI
