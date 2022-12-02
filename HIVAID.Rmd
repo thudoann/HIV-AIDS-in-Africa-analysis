@@ -27,11 +27,56 @@ library(cluster.datasets)
 ```
 
 ```{r}
-pca_hiv = read_csv('hiv_pca.csv',show_col_types = FALSE,quote="")
+#library(Hmisc)
+library(viridis)  
+library(naniar)
+library(xtable)
+#library(schoRsch)
+library(gmodels)
+library(emmeans)
+library(rstatix)
+library(multcomp)
+library(sandwich)
+library(pim)
+library(stargazer)
+library(survival)
+library(survminer)
+library(finalfit)
+library(ggplot2)
+```
+
+
+```{r}
+pca_hiv = read.csv('hiv_pca.csv',quote="")
 colnames(pca_hiv)
 ```
 ```{r}
-df_active <- pca_hiv[,c("AnnualInfection", "Deathnew", "AnnualDeaths", "LivingHIV","LivingHIV","HDI")]
+head(pca_hiv)
+```
+
+```{r}
+xtable(anova(lm(Infectionrate~ NewHDI, data = pca_hiv)))
+```
+
+
+```{r}
+model <- lm(formula=as.formula(paste(paste("Infectionrate",'~', sep=''),
+paste(c("Sex", "NewHDI",'Region'),collapse='+'), sep='')),
+            pca_hiv)
+xtable(summary(model))
+```
+```{r}
+anova(model)
+```
+
+
+
+
+
+
+
+```{r}
+df_active <- pca_hiv[,c("AnnualInfection", "Deathrate", "AnnualDeaths","Infectionrate", "LivingHIV","HDI")]
 ```
 
 ```{r}
@@ -58,7 +103,7 @@ fviz_pca_ind(res.pca,
 ```
 
 ```{r}
-
+res.pca = PCA(df_active[,1:5], scale.unit=TRUE, ncp=3, quanti.sup=c(5), graph=T)
 ```
 
 
